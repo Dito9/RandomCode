@@ -7,7 +7,7 @@ def segregateArray(array):
     
     #inspect every element
     while left_index< len(array):
-        print(left_index)
+        #print(left_index)
         left_number=array[left_index]
         right_number=array[right_index]        
         
